@@ -1,0 +1,52 @@
+BHAGYA ROSHINI KOVVURI
++1 469-907-4076 | Frisco, TX 75033
+Objective
+I am interested in a Data Analytics Internship, which would allow me to use the skills of data visualization, statistical modeling, and machine learning to produce actionable insights into the business and data-based decision-making.
+Technical Skills
+• Data Analysis & Visualization: Python, Tableau, Excel, Power BI
+• Databases & Querying: SQL, Data Cleaning
+• Machine Learning & Statistics: Regression, Classification, Hypothesis Testing, Predictive Modeling
+• Programming & Web Development: HTML, CSS
+• Soft Skills: Problem Solving, Presentation, Team Collaboration
+Education
+Master of Science in Advanced Data Analytics
+University of North Texas, Denton, TX
+Expected Graduation: May 2026
+Master of Science in Statistics
+Bankatlal Badruka College for Information Technology, Hyderabad
+Graduated: June 2022 | CGPA: 7.95
+Bachelor of Science in Statistics, Mathematics, and Computer Science
+Nizam College, Hyderabad
+Graduated: May 2020 | CGPA: 9.30
+Relevant Experience
+Software Engineering Intern | Concentrix, Hyderabad, India | July 2023 – Aug 2024
+• Collaborated with teams to design and optimize data-driven reporting dashboards.
+• Analyzed system performance metrics to identify efficiency improvements.
+• Automated reporting workflows using Python and SQL, reducing manual data processing time.
+Front-End Developer Certification | Nxtwave, Hyderabad, India | Aug 2022 – May 2023
+• Designed and developed responsive user interfaces and prototypes for web-based applications.
+• Ensured clean, efficient HTML/CSS for consistent cross-platform performance.
+• Integrated API data visualizations using interactive charts for user analysis.
+Projects
+Zillow Housing Analytics Project:
+• Analyzed rent-to-price ratios across 10 Colorado cities using Zillow & FRED datasets.
+• Performed data cleaning, regression analysis, and visualization in Python (Pandas, Scikit-Learn, Matplotlib).
+• Built Tableau dashboards to highlight affordability and housing trends.
+Nursing Homes Data Visualization Project:
+• Visualized health scores, staffing patterns, and bed capacity across U.S. states using Tableau.
+• Used pie charts, line graphs, and tree maps to highlight facility-level performance variations.
+• Provided insights into correlations between staffing hours and health ratings.
+Data Analysis Dashboard:
+• Designed a statistical dashboard for analyzing user feedback and performance metrics.
+• Implemented interactive filters to improve decision-making visibility.
+Conversational AI Ice-Cream Ordering System — Dialogflow CX | Google Cloud Platform
+•	Developed a multi-flow conversational AI agent for an Ice-Cream Shop using Dialogflow CX, enabling natural and interactive order placement.
+•	Designed intents, entities, and state-machine page flows covering all ordering stages: item → flavor → size → container → confirmation.
+•	Added global interrupt routes for promotions, menu inquiries, feedback collection, and store information—ensuring these features work seamlessly from any page in the conversation.
+•	Built custom entity types (Item, Flavor, Size, Container, Ingredient) and integrated them with form parameters for accurate slot-filling and validation.
+•	Conducted complete testing and debugging in the Dialogflow CX Simulator, validating all flows, edge cases, and fallback scenarios; documented architecture, flow diagrams, and system behavior.
+
+
+Extracurricular & Interests
+• Active participant in technical workshops and data hackathons.
+• Passionate about designing data-driven applications and exploring emerging AI technologies.
